@@ -1,0 +1,26 @@
+h1{
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h2{
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.message{
+    font-family: sans-serif;
+    text-align: center;
+    padding: 30px 0px 0px 0px;
+    color: red; 
+}
+
+.buttons{
+    text-align:center;
+    margin:auto;
+}
+
+.image{
+    text-align:center;
+    margin:auto; 
+}
